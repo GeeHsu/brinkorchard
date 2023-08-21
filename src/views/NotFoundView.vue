@@ -2,9 +2,10 @@
   <Navbar />
   <div class="bg-primary mb-5">
     <div class="container d-flex justify-content-center align-items-center" style="height: 580px;">
-      <div>
-        <h2>404頁面</h2>
-        <p>此頁面不存在。</p>
+      <div class="text-center">
+        <h2 class="display-2 fw-bold">404頁面</h2>
+        <p class="fs-4 mb-0">此頁面不存在。</p>
+        <p class="display-4 mb-0"><i class="bi bi-exclamation-triangle"></i></p>
       </div>
     </div>
   </div>
