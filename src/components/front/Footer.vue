@@ -18,17 +18,17 @@
       <div class="col-lg-4">
         <ul class="d-flex justify-content-end list-unstyled">
           <li>
-            <a href="https://www.facebook.com/BrinkOrchard/" target="_blank" class="link-info fs-3 me-3">
+            <a href="https://www.facebook.com/BrinkOrchard/" target="_blank" class="link-info fs-1 py-2 me-3">
               <i class="bi bi-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="https://line.me/ti/g2/5G9GJZxdhw9eL7AQ7dBoONyyHkbmJDwQ_lmP4w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" target="_blank" class="link-success fs-3 me-3">
+            <a href="https://line.me/ti/g2/5G9GJZxdhw9eL7AQ7dBoONyyHkbmJDwQ_lmP4w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" target="_blank" class="link-success fs-1 py-2 me-3">
               <i class="bi bi-line"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/brink_orchard/" target="_blank" class="link-secondary fs-3">
+            <a href="https://www.instagram.com/brink_orchard/" target="_blank" class="link-secondary fs-1 py-2">
               <i class="bi bi-instagram"></i>
             </a>
           </li>
@@ -38,7 +38,7 @@
   </div>
   <div class="container py-3">
     <div class="text-center">
-      <a class="fs-2" href="#">
+      <a class="fs-1 py-2" href="#">
         <i class="bi bi-arrow-up-circle"></i>
       </a>
     </div>

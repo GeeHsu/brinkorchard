@@ -6,21 +6,21 @@
     <div class="row gy-4 justify-content-center">
       <div class="col-2">
         <p class="mb-0 text-center">
-          <a class="display-4 link-info" href="https://m.me/101917915461894" target="_blank">
+          <a class="display-2 py-2 link-info" href="https://m.me/101917915461894" target="_blank">
             <i class="bi bi-messenger"></i>
           </a>
         </p>
       </div>
       <div class="col-2">
         <p class="mb-0 text-center">
-          <a class="display-4 link-success" href="https://line.me/ti/g2/5G9GJZxdhw9eL7AQ7dBoONyyHkbmJDwQ_lmP4w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" target="_blank">
+          <a class="display-2 py-2 link-success" href="https://line.me/ti/g2/5G9GJZxdhw9eL7AQ7dBoONyyHkbmJDwQ_lmP4w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" target="_blank">
             <i class="bi bi-line"></i>
           </a>
         </p>
       </div>
       <div class="col-2">
         <p class="mb-0 text-center">
-          <a class="display-4 link-secondary" href="https://instagram.com/brink_orchard?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
+          <a class="display-2 py-2 link-secondary" href="https://instagram.com/brink_orchard?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
             <i class="bi bi-instagram"></i>
           </a>
         </p>
