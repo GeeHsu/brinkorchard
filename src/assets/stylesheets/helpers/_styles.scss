@@ -1,0 +1,33 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;300;400;500;600;700;900&display=swap');
+
+body {
+  font-family: 'Noto Serif TC', serif;
+}
+
+img {
+  pointer-events: none;
+}
+
+.logo {
+  background-image: url('/src/assets/img/logo.png');
+  background-size: cover;
+  width: 60px;
+  height: 60px;
+  display: block;
+  text-indent: 101%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.fs-s-48 {
+  font-size: 96px;
+}
+
+.nav-link:hover {
+  color: $primary;
+}
+
+.router-link-exact-active {
+  color: $secondary;
+}
