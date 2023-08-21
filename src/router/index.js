@@ -53,7 +53,7 @@ const router = createRouter({
     }
   ],
   scrollBehavior(to, from, savedPosition) {
-    console.log(to, from, savedPosition);
+    // console.log(to, from, savedPosition);
     // `to` 和 `from` 都是路由路径
     // `savedPosition` 如果不存在可以为 null
     if (to.fullPath.match('/')) {
