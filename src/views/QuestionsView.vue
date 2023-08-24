@@ -90,7 +90,7 @@
 import Navbar from '../components/front/Navbar.vue'
 import Footer from '../components/front/Footer.vue'
 
-import { useHead } from 'unhead'
+import { useHead, useSeoMeta } from 'unhead'
 
 useHead({
   htmlAttrs: {
@@ -100,9 +100,33 @@ useHead({
   meta: [
     {
       name: 'description',
-      content: '位於溪流堤岸旁的果園'
+      content: '位於溪流堤岸旁的果園，顧客對於酪梨、芒果的常見問題。'
+    },
+    {
+      name: 'keywords',
+      content: '堤岸果園,酪梨,芒果,水果,堤岸,果園'
+    },
+    {
+      name: 'author',
+      content: 'Gee Hsu'
     }
   ]
+})
+
+// the easiest meta tags
+useSeoMeta({
+  ogLocale: 'zh_TW',
+  ogType: 'website',
+  ogTitle: '堤岸果園 - 常見問題',
+  ogDescription: '位於溪流堤岸旁的果園，顧客對於酪梨、芒果的常見問題。',
+  ogSite_name: '堤岸果園',
+  ogUrl: 'https://geehsu.github.io/brinkorchard/',
+  ogImage: 'https://geehsu.github.io/brinkorchard/assets/hero-bef45373.jpg',
+  ogImageWidth: '1200',
+  ogImageHeight: '766',
+  ogImageType: 'image/jpg',
+  fbApp_id: '101917915461894',
+  twitterCard: 'summary_large_image',
 })
 </script>
 
