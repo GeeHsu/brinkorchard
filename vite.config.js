@@ -70,12 +70,6 @@ const htmlPluginOpt = {
       content: 'summary_large_image'
     }
   ],
-  links: [
-    {
-      rel: 'icon',
-      href: '/src/assets/img/logo.png'
-    }
-  ]
 }
 
 // https://vitejs.dev/config/
